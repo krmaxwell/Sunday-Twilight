@@ -1,14 +1,11 @@
-Sunday Twilight
+Going home late last night
 
-As you lie on the couch, you can see a faint haze in the air above you.
+Late last night, you came home. Something seemed wrong, though.
 
-[[Sit up]] | [[Listen quietly|Sounds]]
-You sit up slowly. You notice people in the street outside your window.
+[[Go to the window]] | [[Listen quietly|Sounds]]
+The faint sounds of laughter and music drift from inside your home.
 
-[[Look outside]]
-The faint sounds of laughter and music drift into the room from outside.
-
-[[Sit up]]
+[[Go to the window]]
 Two people are dancing together. One is wearing boots. The other has a beard to his belt.
 
 [[Look at the one with boots|Boots]] | [[Look at the one with a beard|Beard]]
@@ -22,3 +19,6 @@ You tell your friend in the room what you saw. All you receive in turn is disbel
 
 [[Go see a doctor]]
 "You've gone too far," the doctor says. "Smoking and tripping is all that you do!"
+You notice people inside your home.
+
+[[Look inside]]
