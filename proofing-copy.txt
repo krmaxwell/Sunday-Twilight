@@ -1,0 +1,23 @@
+Sunday Twilight
+
+As you lie on the couch, you can see a faint haze in the air above you.
+
+[[Sit up]] | [[Listen quietly|Sounds]]
+You sit up slowly. You notice people in the street outside your window.
+
+[[Look outside]]
+The faint sounds of laughter and music drift into the room from outside.
+
+[[Sit up]]
+Two people are dancing together. One is wearing boots. The other has a beard to his belt.
+
+[[Look at the one with boots|Boots]] | [[Look at the one with a beard|Beard]]
+The fairy has butterfly wings and her skin glows slightly, contrasting with her boots.
+
+[[Look at the one with a beard|Beard]] | [[Tell a friend]]
+The beard itself is only about half a meter long. But that's because the dwarf is a meter tall. 
+
+[[Look at the one with boots|Boots]] | [[Tell a friend]]
+You tell your friend in the room what you saw.
+
+"You've gone too far," he says. "Smoking and tripping is all that you do!"
