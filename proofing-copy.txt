@@ -18,6 +18,7 @@ The fairy has butterfly wings and her skin glows slightly, contrasting with her 
 The beard itself is only about half a meter long. But that's because the dwarf is a meter tall. 
 
 [[Look at the one with boots|Boots]] | [[Tell a friend]]
-You tell your friend in the room what you saw.
+You tell your friend in the room what you saw. All you receive in turn is disbelief.
 
-"You've gone too far," he says. "Smoking and tripping is all that you do!"
+[[Go see a doctor]]
+"You've gone too far," the doctor says. "Smoking and tripping is all that you do!"
